@@ -2,7 +2,7 @@
 
 TFM del Máster de FP en Inteligencia Artificial y Big Data - CPIFP Alan Turing `Curso 2025/2026`
 
-<img src="https://github.com/Latency-Zero-tfm/HardVisionAI/blob/alejandro/img/alan_turing.png?raw=true" width="150"/>
+<img src="../img/alan_turing.png" width="150"/>
 
 <!-- [iabd-tfm-2526](https://github.com/CPIFPAlanTuring/iabd-tfm-2526) -->
 
